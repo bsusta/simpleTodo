@@ -1,14 +1,13 @@
 import React, { Component } from 'react';
 import {Link} from 'react-router';
 
+
 export default class App extends Component {
   render() {
     return (
        <div>
-          <div>LeftSidebar</div>
-          <div>Mainbar</div>
-          <div>RightSidebar</div>
-       </div>
+          
+        </div>
     );
   }
 }
